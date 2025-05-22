@@ -134,7 +134,6 @@ public class Main {
                 System.out.println("Ошибка: необходимо ввести две числовые координаты через пробел.");
             }
         }
-
         return new Point(x, y);
     }
 
